@@ -59,4 +59,4 @@ https://github.com/Bushra2411/DBMS-Project-Pharmacy-Management-System-/assets/14
 
 ## Feedback
 
-If you have any feedback, please reach out to us at @chowdhurybushra2401@gamail.com
+If you have any feedback, please reach out to us at @chowdhurybushra2401@gmail.com
