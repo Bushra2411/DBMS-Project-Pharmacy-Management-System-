@@ -23,6 +23,12 @@ This system will do some activities like store medicine
 data, search medicine data efficiency, update ,delete, edit 
 medicine information and prepare bill for medicine.
 
+## Project Video (showing codebase and features)
+
+
+
+
+https://github.com/Bushra2411/DBMS-Project-Pharmacy-Management-System-/assets/142914759/bab55f86-b90e-4bc5-abdc-977608deadb1
 
 
 
