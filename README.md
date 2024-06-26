@@ -55,8 +55,10 @@ https://github.com/Bushra2411/DBMS-Project-Pharmacy-Management-System-/assets/14
 ## Roadmap
 
 
+![Screenshot (569)](https://github.com/Bushra2411/DBMS-Project-Pharmacy-Management-System-/assets/142914759/5efc6638-5874-4261-98bc-f429ebe9db57)
 
 
-## Feedback
+## Feedback 
+
 
 If you have any feedback, please reach out to us at @chowdhurybushra2401@gmail.com
