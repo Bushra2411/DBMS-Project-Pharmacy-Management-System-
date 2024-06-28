@@ -32,6 +32,14 @@ https://github.com/Bushra2411/DBMS-Project-Pharmacy-Management-System-/assets/14
 
 
 
+##  Project Slide
+
+
+[Pharmacy-Management-System (2).pdf](https://github.com/user-attachments/files/16025629/Pharmacy-Management-System.2.pdf)
+ 
+
+
+ 
 ## Tech Stack
 
 
