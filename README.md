@@ -34,7 +34,7 @@ https://github.com/Bushra2411/DBMS-Project-Pharmacy-Management-System-/assets/14
 
 
 
-https://drive.google.com/drive/u/0/folders/1yzGkIp_veuV1tCbyDujCJ6eKFt643Eyy Video with better quality Voice.
+https://drive.google.com/drive/u/0/folders/1yzGkIp_veuV1tCbyDujCJ6eKFt643Eyy Video with better quality and Voice.
 
 
 
